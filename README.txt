@@ -30,4 +30,5 @@ make_AR_TS.py generates a time series for an autoregressive model of specified o
 
 
 DownloadFinancialData.py is just an example of a way to obtain data for analysis.
+.gitignore tells git what not to share with you
 
